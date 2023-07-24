@@ -1,5 +1,5 @@
-#ifndef _MAIN_H
-#define _MAIN_H
+#ifndef FILE_MAIN
+#define FILE_MAIN
 
 void reset_to_98(int *n);
 
